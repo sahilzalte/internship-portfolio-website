@@ -1,0 +1,18 @@
+.skills-container {
+  padding: 2rem 10%;
+  color: white;
+}
+
+.skill-category {
+  cursor: pointer;
+  margin-bottom: 3rem;
+}
+
+.skill-category h2 {
+  color: #4acfee;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
